@@ -1,0 +1,19 @@
+# Artefatos e ferramentas locais
+build/
+.tools/
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+sourcemap.json
+
+# Configuração privada
+.env
+.env.*
+!.env.example
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+*.log
+.idea/
