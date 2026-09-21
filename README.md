@@ -57,6 +57,8 @@ A publicação na Roblox é manual pelo Studio. Ainda não há experiência, IDs
 
 ## Próximos passos
 
+O [checklist completo de desenvolvimento](TODO.md) acompanha as etapas do conceito ao primeiro Play, aos testes externos e ao lançamento.
+
 - Definir o conceito do jogo e seu ciclo principal.
 - Implementar a primeira mecânica jogável.
 - Criar interface e direção visual.
